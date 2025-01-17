@@ -1,6 +1,6 @@
 ### 👩‍💻 Madhavi Datti  
 ### 🌟 About Me  
-Hi there! I'm Madhavi, a passionate **Java Full Stack Developer in training** with a background in content creation and technical writing. 
+Hi there! I'm Madhavi, a passionate **Java Full Stack Developer** with a background in content creation and technical writing. 
 I am dedicated to building robust and efficient software solutions using Java technologies and modern development tools.
 ### 🔭 What I'm Working On 
 Enhancing my skills in **Spring Boot**, **REST APIs**, and **Full Stack Development**.  
