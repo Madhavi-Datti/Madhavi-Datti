@@ -8,7 +8,7 @@ Developing innovative Java-based applications and exploring advanced frameworks.
 ### 🛠️ Tech Stack   
 - **Programming Languages**: Core Java, Advance Java
 - **Frameworks**: Spring, Spring Boot
-- **Web Dev**: HTML, CSS, JavaScript, Bootstrap  
+- **Web Dev**: HTML, CSS, Bootstrap, JavaScript, React
 - **Database**: MySQL  
 - **Tools**: IntelliJ IDEA, Eclipse, VS Code  
 - **Soft Skills**: Communication, Teamwork, Problem-Solving
